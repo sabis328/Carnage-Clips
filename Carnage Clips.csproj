@@ -50,7 +50,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>destiny_crucible_aotf_760x428_d0q_2.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>E084E565B6C26D9293CE754DA5F82EC39B605759</ManifestCertificateThumbprint>
@@ -134,11 +135,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="crucible_icon_header_GNk_1.ico" />
-    <Content Include="crucible_icon_header_w0w_icon.ico" />
-    <Content Include="destiny_crucible_aotf_760x428_d0q_2.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
